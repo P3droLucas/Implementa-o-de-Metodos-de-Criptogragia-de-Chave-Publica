@@ -1,2 +1,2 @@
-# Implementa-o-de-Metodos-de-Criptogragia-de-Chave-Publica
+# Implementa-o-de-Metodos-de-Criptografia-de-Chave-Publica
 Implementação realizada através de Python
